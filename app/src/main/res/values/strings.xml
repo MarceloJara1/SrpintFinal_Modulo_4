@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SrpintFinal_Modulo_4</string>
+    <string name="descripcion">Hola, soy Marcelo Jara, estudiante de Ingeniería Informática a punto de terminar mi carrera. Estoy desarrollando una sistema web como parte de mi proyecto de título, donde aplico los conocimientos adquiridos durante mi formación académica.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
