@@ -59,7 +59,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/bule_dark"
-                app:icon="@drawable/baseline_email_24" />
+                app:icon="@drawable/baseline_email_24"
+                />
         </RelativeLayout>
 
     </LinearLayout>
